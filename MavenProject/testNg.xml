@@ -1,0 +1,8 @@
+<suite name="mytestsuite">
+	<test name="mytest">
+		<classes>
+			<class name="testNgcommands.BasicCommands"></class>
+			<class name="testNgcommands.Annotations"></class>
+		</classes>
+	</test>
+</suite>
